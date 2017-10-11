@@ -1,0 +1,7 @@
+William Shakes 1-2-2009 20000 null null null
+Tom Swift null 10000 Gold 1000.0 null
+Tom Swift null 2 Gold 1000.0 null
+Tom Swift 1/1/2000 10001 null 2000.0 null
+David Swift 2/2/2010 10002 null 10000.0 null
+Posephine Bloggs 1-6-1980 10003 null null null
+
